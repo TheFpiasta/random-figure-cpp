@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# Project and IDE
+/cmake-build-debug/
+/.idea
+/build/
+random_figure_cpp
+random_figure_cpp.exe
